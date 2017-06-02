@@ -32,6 +32,5 @@ Library|License|Copyright
 [requests](http://requests-docs-ja.readthedocs.io/en/latest/)|[Apache-2.0](https://opensource.org/licenses/Apache-2.0)|[Copyright 2012 Kenneth Reitz](http://requests-docs-ja.readthedocs.io/en/latest/user/intro/#requests)
 [dataset](https://dataset.readthedocs.io/en/latest/)|[MIT](https://opensource.org/licenses/MIT)|[Copyright (c) 2013, Open Knowledge Foundation, Friedrich Lindenberg, Gregor Aisch](https://github.com/pudo/dataset/blob/master/LICENSE.txt)
 [pytz](https://github.com/newvem/pytz)|[MIT](https://opensource.org/licenses/MIT)|[Copyright (c) 2003-2005 Stuart Bishop <stuart@stuartbishop.net>](https://github.com/newvem/pytz/blob/master/LICENSE.txt)
-[pyotp](https://github.com/pyotp/pyotp)|[MIT](https://opensource.org/licenses/MIT)|[Copyright (C) 2011-2016 Mark Percival m@mdp.im,
-Nathan Reynolds email@nreynolds.co.uk, and PyOTP contributors](https://github.com/pyotp/pyotp/blob/master/LICENSE)
+[pyotp](https://github.com/pyotp/pyotp)|[MIT](https://opensource.org/licenses/MIT)|[Copyright (C) 2011-2016 Mark Percival m@mdp.im, Nathan Reynolds email@nreynolds.co.uk, and PyOTP contributors](https://github.com/pyotp/pyotp/blob/master/LICENSE)
 
